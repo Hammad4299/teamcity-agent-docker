@@ -1,0 +1,2 @@
+docker build -t registry.gitlab.com/teraception/devops/teamcity-agent/docker/agent:latest .
+docker push registry.gitlab.com/teraception/devops/teamcity-agent/docker/agent:latest
